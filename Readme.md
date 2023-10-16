@@ -53,6 +53,7 @@
 - _CISA - Agentura pro kybernetickou bezpečnost a bezpečnost infrastruktury_ musí uplatnit svůj vliv tím, že bude řídit společnosti AI (směrnice pro bezpečnost).
 - _Vytvoření národní Kybernetické síly_ věnované kybernetické bezpečnosti by posílilo odolnost země vůči kybernetickým hrozbám.
 - Prozatím má každá země (některé) svou vlastní Kybernetickou sílu, např. _Kybernetický úřad Spojených států (USCYBERCOM), Národní kybernetická síla Spojeného království (NCF), Strategická podpůrná síla Čínské lidové osvobozenecké armády (PLASSF)_
+- Kybernetická síla je důležitým faktorem v současném světě. Je důležité, aby vlády, organizace a jednotlivci byli informováni o kybernetických hrozbách a aby podnikli kroky k ochraně svých systémů a dat.
 
 #### EVROPSKÝ NOVÝ ZÁKON O UMĚLÉ INTELIGENCI
 
