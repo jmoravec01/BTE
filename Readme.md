@@ -2,7 +2,11 @@
 
 ## Obsah
 
-- [LLM (Large Language Models) - moderní jazykové modely AI](#LLM)
+- [Large Language Models](#llm-large-language-models---moderní-jazykové-modely-ai)
+- [Vertex AI a Security AI Workbench](#vertex-ai-a-security-ai-workbench)
+- [Dostupné nástroje pro kybernetickou bezpečnost](#dostupné-nástroje-pro-kybernetickou-bezpečnost)
+- [Kybernetická síla](#kybernetická-síla)
+- [Zákon](#evropský-nový-zákon-o-umělé-inteligenci)
 
 #### LLM (Large Language Models) - moderní jazykové modely AI
 
@@ -23,8 +27,6 @@
   - _Bezpečnost koncových bodů_ (EPP - ochrana, EDR - detekce a reakce)
   - _Bezpečnostní chatboty_ (asistují týmům pro bezpečnost poskytujícím reálný časový návod)
   - _Hluboké učení a neuronové sítě_ (CNN - vizuální data, a RNN - sekvenciální data) -> používány pro analýzu obrázků a textů -> lepší detekce a klasifikace
-
-**Řešení kybernetické bezpečnosti pomocí generativní AI**
 
 #### Vertex AI a Security AI Workbench
 
@@ -53,18 +55,18 @@
 
 #### EVROPSKÝ NOVÝ ZÁKON O UMĚLÉ INTELIGENCI
 
-- _Zákon o umělé inteligenci - AIA_
+- _Zákon o umělé inteligenci - AIA (Artificial Intelligence Act)_
 - _14. června 2023_
-- _První komplexní zákon (regulující vývoj, použití a marketing systémů umělé inteligence AI)_
-- _Zákon má zajistit, aby byly systémy AI bezpečné, spolehlivé a důvěryhodné a respektovaly základní práva a hodnoty_
-- _Čtyři kategorie rizik (nepřijatelné, vysoké, omezené, minimální nebo žádné)_
+- _první komplexní zákon (regulující vývoj, použití a marketing systémů umělé inteligence AI)_
+- _zákon má zajistit, aby byly systémy AI bezpečné, spolehlivé a důvěryhodné a respektovaly základní práva a hodnoty_
+- _čtyři kategorie rizik (nepřijatelné, vysoké nebezpečí, omezené, minimální nebo žádné)_
 - _Očekává se, že AIA vstoupí v platnost v roce 2025_
 
-_Jak se snažíme bránit se proti se vyvíjejícím kybernetickým hrozbám, stává se nezbytnou spolupráce._
+_Ačkoliv se snažíme bránit se proti vyvíjejícím se kybernetickým hrozbám, stává se nezbytnou nutností tyto změny přijmout._
 
 #### Cybersecurity Ventures
 
-- sdílely své "Top 10 Kybernetických předpovědí a statistik pro rok 2023", které odhalily alarmující skutečnost, že globální finanční škody způsobené kybernetickými zločiny dosáhnou 8 bilionů dolarů v roce 2023 a 10,5 bilionů dolarů do roku 2025. Tyto číselné údaje, pokud by byly považovány za zemi, "by byly třetí největší ekonomikou na světě po USA a Číně." (CZ 290 x USA 25500 v miliardách USD)
+- Sdílely své "Top 10 Kybernetických předpovědí a statistik pro rok 2023", které odhalily alarmující skutečnost, že globální finanční škody způsobené kybernetickými zločiny dosáhnou 8 bilionů dolarů v roce 2023 a 10,5 bilionů dolarů do roku 2025. Tyto číselné údaje, pokud by byly považovány za zemi, "by byly třetí největší ekonomikou na světě po USA a Číně." (CZ 290 x USA 25500 v miliardách USD)
 
 _ZDROJ_
 
