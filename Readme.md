@@ -62,6 +62,8 @@
 - _zákon má zajistit, aby byly systémy AI bezpečné, spolehlivé a důvěryhodné a respektovaly základní práva a hodnoty_
 - _čtyři kategorie rizik (nepřijatelné, vysoké nebezpečí, omezené, minimální nebo žádné)_
 - _Očekává se, že AIA vstoupí v platnost v roce 2025_
+- požadavky: transparentnost, nediskriminace, ochrana soukromí, bezpečnost
+- povinnosti pro vývojáře: posouzení rizika, bezpečnostní opatření, transparentnost, odpovědnost
 
 _Ačkoliv se snažíme bránit se proti vyvíjejícím se kybernetickým hrozbám, stává se nezbytnou nutností tyto změny přijmout._
 
