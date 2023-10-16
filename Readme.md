@@ -70,7 +70,8 @@ _Ačkoliv se snažíme bránit se proti vyvíjejícím se kybernetickým hrozbá
 
 #### Cybersecurity Ventures
 
-- Sdílely své "Top 10 Kybernetických předpovědí a statistik pro rok 2023", které odhalily alarmující skutečnost, že globální finanční škody způsobené kybernetickými zločiny dosáhnou 8 bilionů dolarů v roce 2023 a 10,5 bilionů dolarů do roku 2025. Tyto číselné údaje, pokud by byly považovány za zemi, "by byly třetí největší ekonomikou na světě po USA a Číně." (CZ 290 x USA 25500 v miliardách USD)
+- Sdílely své "Top 10 Kybernetických předpovědí a statistik pro rok 2023", které odhalily alarmující skutečnost, že globální finanční škody způsobené kybernetickými zločiny dosáhnou 8 bilionů dolarů v roce 2023 a 10,5 bilionů dolarů do roku 2025. Tyto číselné údaje, pokud by byly považovány za zemi, "by byly třetí největší ekonomikou na světě po USA a Číně."
+- pro porovnání CZ 290 x USA 25500 (v miliardách USD)
 
 _ZDROJ_
 
