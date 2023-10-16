@@ -1,10 +1,9 @@
 ## Obsah
 
 - [Large Language Models](#LLM)
-- [Vertex AI a Security AI Workbench](#VASAW)
+- [Vertex AI a Security AI Workbench](#Vertex)
 - [Large Language Models](#LLM)
 - [Large Language Models](#LLM)
-
 
 #### LLM (Large Language Models) - moderní jazykové modely AI
 
