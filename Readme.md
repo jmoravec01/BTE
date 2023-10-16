@@ -1,9 +1,6 @@
 ## Obsah
 
-- [Large Language Models](#LLM)
-- [Vertex AI a Security AI Workbench](#Vertex)
-- [Large Language Models](#LLM)
-- [Large Language Models](#LLM)
+- [Odkaz na Zdraví](#zdravi)
 
 #### LLM (Large Language Models) - moderní jazykové modely AI
 
@@ -34,7 +31,7 @@
 - _Security AI Workbench_ je nová nabídka na Vertex AI, která pomáhá bezpečnostním týmům účinněji detekovat a reagovat na kybernetické hrozby.
 - Zlepšený postoj k bezpečnosti, snížená pracovní zátěž, zvýšená efektivita
 
-**Dostupné nástroje pro kybernetickou bezpečnost**
+#### Dostupné nástroje pro kybernetickou bezpečnost
 
 1. Google Cloud Security AI Workbench od Google
 2. Microsoft Security Copilot od Microsoftu
@@ -46,13 +43,13 @@
 8. Security Scorecard od SecurityScorecard
 9. MOSTLY AI od mostly.ai
 
-**KYBERNETICKÁ SÍLA**
+#### KYBERNETICKÁ SÍLA
 
 - _CISA - Agentura pro kybernetickou bezpečnost a bezpečnost infrastruktury_ musí uplatnit svůj vliv tím, že bude řídit společnosti AI (směrnice pro bezpečnost).
 - _Vytvoření národní Kybernetické síly_ věnované kybernetické bezpečnosti by posílilo odolnost země vůči kybernetickým hrozbám.
 - Prozatím má každá země (některé) svou vlastní Kybernetickou sílu, např. _Kybernetický úřad Spojených států (USCYBERCOM), Národní kybernetická síla Spojeného království (NCF), Strategická podpůrná síla Čínské lidové osvobozenecké armády (PLASSF)_
 
-**EVROPSKÝ NOVÝ ZÁKON O UMĚLÉ INTELIGENCI**
+#### EVROPSKÝ NOVÝ ZÁKON O UMĚLÉ INTELIGENCI
 
 - _Zákon o umělé inteligenci - AIA_
 - _14. června 2023_
@@ -63,7 +60,9 @@
 
 _Jak se snažíme bránit se proti se vyvíjejícím kybernetickým hrozbám, stává se nezbytnou spolupráce._
 
-**Cybersecurity Ventures** sdílely své "Top 10 Kybernetických předpovědí a statistik pro rok 2023", které odhalily alarmující skutečnost, že globální finanční škody způsobené kybernetickými zločiny dosáhnou 8 bilionů dolarů v roce 2023 a 10,5 bilionů dolarů do roku 2025. Tyto číselné údaje, pokud by byly považovány za zemi, "by byly třetí největší ekonomikou na světě po USA a Číně." (CZ 290 x USA 25500 v miliardách USD)
+#### Cybersecurity Ventures
+
+- sdílely své "Top 10 Kybernetických předpovědí a statistik pro rok 2023", které odhalily alarmující skutečnost, že globální finanční škody způsobené kybernetickými zločiny dosáhnou 8 bilionů dolarů v roce 2023 a 10,5 bilionů dolarů do roku 2025. Tyto číselné údaje, pokud by byly považovány za zemi, "by byly třetí největší ekonomikou na světě po USA a Číně." (CZ 290 x USA 25500 v miliardách USD)
 
 _ZDROJ_
 
