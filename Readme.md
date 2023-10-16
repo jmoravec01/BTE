@@ -2,7 +2,7 @@
 
 ## Obsah
 
-- [LLM](#LLM)
+- [LLM (Large Language Models) - moderní jazykové modely AI](#LLM)
 
 #### LLM (Large Language Models) - moderní jazykové modely AI
 
