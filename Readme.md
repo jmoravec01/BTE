@@ -7,6 +7,7 @@
 - [Dostupné nástroje pro kybernetickou bezpečnost](#dostupné-nástroje-pro-kybernetickou-bezpečnost)
 - [Kybernetická síla](#kybernetická-síla)
 - [Zákon](#evropský-nový-zákon-o-umělé-inteligenci)
+- [GDP zajímavost](#cybersecurity-ventures)
 
 #### LLM (Large Language Models) - moderní jazykové modely AI
 
