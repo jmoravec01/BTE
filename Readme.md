@@ -28,7 +28,7 @@
 
 **Řešení kybernetické bezpečnosti pomocí generativní AI**
 
-#### [Vertex AI a Security AI Workbench](#VASAW)
+#### Vertex AI a Security AI Workbench
 
 - Oba placené služby od Google Cloud Platform
 - _Vertex AI_ je spravovaná platforma pro strojové učení, která usnadňuje vytváření, trénink, nasazení a správu modelů strojového učení na velké úrovni. Poskytuje sjednocený zážitek pro správu celého životního cyklu strojového učení, od přípravy dat po nasazení modelu.
